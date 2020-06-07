@@ -7,6 +7,6 @@ Upon completion it displays the new secure password on the screen.
 
 [link to my website](https://ryannekillian.github.io/friendly-parakeet/)
 
-![this is a screenshot of my website]/.screenshot.png)
+![this is a screenshot of my website](/.screenshot.png)
 
 
