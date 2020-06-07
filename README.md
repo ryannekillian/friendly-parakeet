@@ -1,4 +1,4 @@
-# friendly-parakeet
+# Password Generator (friendly-parakeet homework assignment)
 
 This is a website that will randomly create a password that is between 8-128 characters long. 
 It allows the user to choose uppercase characters, lowercaser characters, special characters or numeric characters. 
