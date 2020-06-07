@@ -5,7 +5,7 @@ It allows the user to choose uppercase characters, lowercaser characters, specia
 If none of these are chosen it prompts the user to start over and pick at lease one of the options.
 Upon completion it displays the new secure password on the screen.
 
-[link to my website]()
+[link to my website](https://ryannekillian.github.io/friendly-parakeet/)
 
 ![this is a screenshot of my website]()
 
